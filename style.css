@@ -1,0 +1,19 @@
+body {
+    background-color: lightcyan;
+    font-size: 25px;
+}
+
+#Casestudy {
+    width: 250px;
+    height: 300px;
+    font-size: 25px;
+}
+
+#googlelens {
+    width: 150px;
+}
+
+#book,#pouch,#mug,#ship {
+    width: 300px;
+    height: 400px;
+}
